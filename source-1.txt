@@ -160,7 +160,7 @@
         {
           "name": "live",
           "urls": [
-            "http://miaotvs.cn/meow"
+            "http://miaotvs.cn/meowzb"
           ]
         }
       ]
