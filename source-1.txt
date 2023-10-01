@@ -47,6 +47,19 @@
 			"http://111.40.196.9/PLTV/88888888/224/3221225513/index.m3u8",
 			"http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226338/1.m3u8“
 		]
+	},
+	{
+		"name":"CCTV-5",
+		"urls":[
+                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226259/1.m3u8",
+                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8",
+                        "http://111.40.196.9/PLTV/88888888/224/3221225559/index.m3u8",
+                        "ttp://39.134.39.37/PLTV/88888888/224/3221226151/index.m3u8",
+                        "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226256/1.m3u8",
+                        "http://111.40.196.9/PLTV/88888888/224/3221225550/index.m3u8",
+                        "http://111.40.196.9/PLTV/88888888/224/3221225668/index.m3u8",
+                        "http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226348/1.m3u8"
+		]
 	}
 	]
 }
