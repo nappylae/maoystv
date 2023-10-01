@@ -4,6 +4,16 @@
 "spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
 
 "sites":[
+{
+"key": "csp_xpath_duboku",
+"name": "独播库(XP)",
+"type": 3,
+"api": "csp_XPath",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/Duboku.json"
+},
 {"key":"乐活影视","name":"乐活影视","type":1,"api":"https://lehootv.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"乐多资源","name":"乐多资源","type":0,"api":"http://cj.leduocaiji.com/inc/api.php","playUrl":"https://ldy.jx.cn/wp-api/ifr.php?vid=","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"番茄资源","name":"番茄资源","type":1,"api":"http://api.fqzy.cc/api.php/provide/vod/","playUrl":"https://jx.fqzy.cc/jx.php?url=","searchable":1,"quickSearch":1,"categories":[]},
@@ -22,11 +32,24 @@
 ],
 
 "lives":[
-{"group":"redirect",
+{
+"group":"自定义",
 "channels":[
-{"name":"redirect",
-"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9wYXN0ZWJpbi5jb20vcmF3L0ZBWGN0czBy"]}
-]}
+	{
+		"name":"CCTV-1",
+		"urls":[
+			"http://117.148.179.160/PLTV/88888888/224/3221231468/index.m3u8",
+            "http://111.40.196.9/PLTV/88888888/224/3221225511/index.m3u8",        
+            "http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226564/1.m3u8",
+            "http://111.40.196.9/PLTV/88888888/224/3221225513/index.m3u8",
+            "http://39.134.39.37/PLTV/88888888/224/3221226153/index.m3u8",
+            "http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8",
+            "http://111.40.196.9/PLTV/88888888/224/3221225513/index.m3u8",
+            "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226338/1.m3u8“
+         ]
+	}
+]
+}
 ],
 
 "parses":[
