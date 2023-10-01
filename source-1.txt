@@ -18,7 +18,7 @@
 {"key":"鱼乐资源","name":"鱼乐资源","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"酷点资源","name":"酷点资源","type":1,"api":"https://api.kuapi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"趣看","name":"趣看","type":1,"api":"http://qkmp4.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
-{"key":"39影视","name":"39影视","type":0,"api":"https://www.39kan.com/api.php/provide/vod/at/xml/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
+{"key":"39影视","name":"39影视","type":0,"api":"https://www.39kan.com/api.php/provide/vod/at/xml/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]}
 ],
 
 "lives":[
