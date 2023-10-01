@@ -153,7 +153,6 @@
       "categories": []
     }
   ],
-  "lives": [],
   "parses": [],
   "flags": [
     "youku",
