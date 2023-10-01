@@ -153,6 +153,17 @@
       "categories": []
     }
   ],
+  "lives":[
+    "group":"redirect",
+    "channels":[
+      {
+        "name": "live",
+        "urls": [
+          "http://miaotvs.cn/meow"
+        ]
+      }
+    ]
+  ],
   "parses": [],
   "flags": [
     "youku",
