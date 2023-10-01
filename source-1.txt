@@ -3,16 +3,6 @@
   "spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
   "sites": [
     {
-      "key": "csp_xpath_duboku",
-      "name": "独播库(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/Duboku.json"
-    },
-    {
       "key": "乐活影视",
       "name": "乐活影视",
       "type": 1,
