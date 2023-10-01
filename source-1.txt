@@ -154,7 +154,7 @@
     }
   ],
   "lives":[
-    "group":"redirect",
+    "group":"自定义",
     "channels":[
       {
         "name": "live",
