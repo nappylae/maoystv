@@ -154,15 +154,17 @@
     }
   ],
   "lives":[
-    "group":"自定义",
-    "channels":[
-      {
-        "name": "live",
-        "urls": [
-          "http://miaotvs.cn/meow"
-        ]
-      }
-    ]
+    {
+      "group":"自定义",
+      "channels":[
+        {
+          "name": "live",
+          "urls": [
+            "http://miaotvs.cn/meow"
+          ]
+        }
+      ]
+    }
   ],
   "parses": [],
   "flags": [
