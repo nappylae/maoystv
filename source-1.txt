@@ -153,39 +153,7 @@
       "categories": []
     }
   ],
-  "lives": [
-    {
-      "group": "自定义",
-      "channels": [
-        {
-          "name": "CCTV-1",
-          "urls": [
-            "http://117.148.179.160/PLTV/88888888/224/3221231468/index.m3u8",
-            "http://111.40.196.9/PLTV/88888888/224/3221225511/index.m3u8",
-            "http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226564/1.m3u8",
-            "http://111.40.196.9/PLTV/88888888/224/3221225513/index.m3u8",
-            "http://39.134.39.37/PLTV/88888888/224/3221226153/index.m3u8",
-            "http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8",
-            "http://111.40.196.9/PLTV/88888888/224/3221225513/index.m3u8",
-            "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226338/1.m3u8"
-          ]
-        },
-        {
-          "name": "CCTV-5",
-          "urls": [
-            "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226259/1.m3u8",
-            "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8",
-            "http://111.40.196.9/PLTV/88888888/224/3221225559/index.m3u8",
-            "ttp://39.134.39.37/PLTV/88888888/224/3221226151/index.m3u8",
-            "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226256/1.m3u8",
-            "http://111.40.196.9/PLTV/88888888/224/3221225550/index.m3u8",
-            "http://111.40.196.9/PLTV/88888888/224/3221225668/index.m3u8",
-            "http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226348/1.m3u8"
-          ]
-        }
-      ]
-    }
-  ],
+  "lives": [],
   "parses": [],
   "flags": [
     "youku",
